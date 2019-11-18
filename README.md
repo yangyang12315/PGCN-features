@@ -13,5 +13,5 @@ flow features（原论文中提供）：https://pan.baidu.com/s/1Dqbcm5PKbK-8n0Z
                                      
 复现精度map@0.5 分别为：
 
-rgb  (46.14)     
-flow (37.15)
+flow  (46.14)     
+rgb   (37.15)
